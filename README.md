@@ -68,11 +68,11 @@ To get the project you need to have an IDE to run java programming language.
 1. Get credentials to PostgreSQL database and put them into environment variables
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Lenas25/OracleNextChallengeLiterature.git
    ```
 3. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin github_username/repo_name
+   git remote set-url origin Lenas25/OracleNextChallengeLiterature.git
    git remote -v # confirm the changes
    ```
 
@@ -83,9 +83,38 @@ To get the project you need to have an IDE to run java programming language.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Here you can check the different functionalities and options that the program has to execute.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. Search books with https://gutendex.com/ api
+  ![image](https://github.com/user-attachments/assets/40bb38e9-0151-464c-8e78-4f69957e9038)
+
+2. Check book saved
+   </br>
+  ![image](https://github.com/user-attachments/assets/8cc1aab3-b3d8-4e08-95f3-1afb01112ab1)
+
+3. Check authors saved
+    </br>
+   ![image](https://github.com/user-attachments/assets/bc8954ec-3877-4970-85f8-d378faea1282)
+
+4. Search for living authors up to a certain year
+    </br>
+   ![image](https://github.com/user-attachments/assets/4475888c-06bd-4ad5-a2f3-518e22a2eeef)
+
+5. Show books by language
+    </br>
+   ![image](https://github.com/user-attachments/assets/4cc4ecb8-043b-485a-8c40-c0ea88af6ee6)
+
+6. Generate statistics about books and download_count
+     </br>
+   ![image](https://github.com/user-attachments/assets/83a45f01-780e-4816-a10c-772fe669f895)
+
+7. Top 10 most downloaded books
+     </br>
+    ![image](https://github.com/user-attachments/assets/1119cb1d-e60f-4570-bb0e-1abf49aa4acc)
+
+8. Search for author by name
+     </br>
+   ![image](https://github.com/user-attachments/assets/708ce2ee-c75e-4e26-a192-cfabec187393)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
